@@ -18,6 +18,22 @@ class Sort
         }
         return a;
     }
+    public int[] InsertSort(int[] a, int n)
+    {
+        int i, j, x;
+        for (i = 1; i < n; i++)
+        {
+            j = i - 1;
+            x = a[i];
+            while (j > -1 && a[j] > x)
+            {
+                a[j + 1] = a[j];
+                j--;
+            }
+            a[j + 1] = x;
+        }
+        return a;
+    }
     static void Swap(ref int x, ref int y)
     {
         (y, x) = (x, y);

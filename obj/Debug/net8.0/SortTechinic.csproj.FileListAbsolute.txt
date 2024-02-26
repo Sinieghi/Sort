@@ -12,3 +12,4 @@ e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\refi
 e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.pdb
 e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.genruntimeconfig.cache
 e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\ref\SortTechinic.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.sourcelink.json
