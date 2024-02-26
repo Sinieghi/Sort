@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\bin\Debug\net8.0\SortTechinic.exe
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\bin\Debug\net8.0\SortTechinic.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\bin\Debug\net8.0\SortTechinic.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\bin\Debug\net8.0\SortTechinic.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\bin\Debug\net8.0\SortTechinic.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\refint\SortTechinic.dll
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\SortTechinic.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\SortTechinic\obj\Debug\net8.0\ref\SortTechinic.dll
