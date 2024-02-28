@@ -7,7 +7,8 @@
         // a = sort.Bubble(a, a.Length);
         // a = sort.Insertion(a, a.Length);
         // a = sort.SelectionSort(a, a.Length);
-        sort.QuickSort(ref a, 0, a.Length - 1);
+        // sort.QuickSort(ref a, 0, a.Length - 1);
+        sort.IMergeSort(a, a.Length - 1);
         for (int i = 0; i < a.Length; i++)
         {
             System.Console.WriteLine(a[i]);
