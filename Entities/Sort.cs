@@ -122,6 +122,17 @@ class Sort
             merge(A, 0, p / 2 - 1, n - 1);
         }
     }
+    public void MergeSort(int[] a, int l, int h)
+    {
+        int mid;
+        if (l < h)
+        {
+            mid = (l + h) / 2;
+            MergeSort(a, l, mid);
+            MergeSort(a, mid + 1, h);
+            merge(a, l, mid, h);
+        }
+    }
     static void Swap(ref int x, ref int y)
     {
         (y, x) = (x, y);
