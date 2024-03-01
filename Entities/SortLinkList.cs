@@ -39,6 +39,11 @@ class SortLinkList
         return x;
     }
 
+    public int pow(int x, int index)
+    {
+        return 0;
+    }
+
     public int getBinIndex(int x, int idx)
     {
         return (int)(x / pow(10, idx)) % 10;

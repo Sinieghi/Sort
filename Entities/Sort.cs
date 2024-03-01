@@ -160,6 +160,22 @@ class Sort
             else j++;
         }
     }
+    public void ShellSort(int[] a, int n)
+    {
+        int gap, i, j;
+        for (gap = n / 2; gap >= 1; gap /= 2)
+            for (i = gap; i < n; i++)
+            {
+                int temp = a[i];
+                j = i - gap;
+                while (j >= 0 && a[j] > temp)
+                {
+                    a[j + gap] = a[j];
+                    j -= gap;
+                }
+                a[j + gap] = temp;
+            }
+    }
     static void Swap(ref int x, ref int y)
     {
         (y, x) = (x, y);
